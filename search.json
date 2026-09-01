@@ -1,26 +1,5 @@
 [
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "With Krish Bothra and Jenna Lau\n\nGitHub · Paper · Poster\n\nWe developed a multi-stage modeling framework to predict key elements of the screen play before the snap using the NFL’s Big Data Bowl tracking data. By combining players’ spatial information with game contexts, our models predict screen play occurence, direction, and target receiver group while outperforming baseline approaches."
-  },
-  {
-    "objectID": "projects.html#screen-machine-pre-snap-play-prediction-in-the-nfl",
-    "href": "projects.html#screen-machine-pre-snap-play-prediction-in-the-nfl",
-    "title": "Projects",
-    "section": "",
-    "text": "With Krish Bothra and Jenna Lau\n\nGitHub · Paper · Poster\n\nWe developed a multi-stage modeling framework to predict key elements of the screen play before the snap using the NFL’s Big Data Bowl tracking data. By combining players’ spatial information with game contexts, our models predict screen play occurence, direction, and target receiver group while outperforming baseline approaches."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Ethan Larimore",
@@ -40,5 +19,26 @@
     "title": "Ethan Larimore",
     "section": "",
     "text": "Rice University | Houston, TX | Incoming Research Assistant\nAugust 2026 - Present | PI: Scott Powers\nCarnegie Mellon University | Pittsburgh, PA | Undergraduate Researcher\nJune 2026 - July 2026 | Mentor: Karim Kassam"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "With Krish Bothra and Jenna Lau\n\nGitHub · Paper · Poster\n\nWe developed a multi-stage modeling framework to predict key elements of the screen play before the snap using the NFL’s Big Data Bowl tracking data. By combining players’ spatial information with game contexts, our models predict screen play occurence, direction, and target receiver group while outperforming baseline approaches."
+  },
+  {
+    "objectID": "projects.html#screen-machine-pre-snap-play-prediction-in-the-nfl",
+    "href": "projects.html#screen-machine-pre-snap-play-prediction-in-the-nfl",
+    "title": "Projects",
+    "section": "",
+    "text": "With Krish Bothra and Jenna Lau\n\nGitHub · Paper · Poster\n\nWe developed a multi-stage modeling framework to predict key elements of the screen play before the snap using the NFL’s Big Data Bowl tracking data. By combining players’ spatial information with game contexts, our models predict screen play occurence, direction, and target receiver group while outperforming baseline approaches."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
   }
 ]
