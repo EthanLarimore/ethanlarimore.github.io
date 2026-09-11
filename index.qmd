@@ -3,7 +3,7 @@ title: "Ethan Larimore"
 toc: false
 about: 
   template: trestles
-  image: assets\EthanLarimore_headshot.jpeg
+  image: assets/EthanLarimore_headshot.jpeg
   links: 
     - icon: linkedin
       href: https://www.linkedin.com/in/ethan-larimore/
