@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://EthanLarimore.github.io/ethanlarimore.github.io/about.html</loc>
+    <lastmod>2026-09-11T22:04:25.860Z</lastmod>
+  </url>
+  <url>
     <loc>https://EthanLarimore.github.io/ethanlarimore.github.io/index.html</loc>
-    <lastmod>2026-09-01T20:15:28.103Z</lastmod>
+    <lastmod>2026-09-11T22:04:26.251Z</lastmod>
   </url>
   <url>
     <loc>https://EthanLarimore.github.io/ethanlarimore.github.io/projects.html</loc>
-    <lastmod>2026-09-01T20:15:28.103Z</lastmod>
-  </url>
-  <url>
-    <loc>https://EthanLarimore.github.io/ethanlarimore.github.io/about.html</loc>
-    <lastmod>2026-09-01T20:15:27.737Z</lastmod>
+    <lastmod>2026-09-11T22:04:26.251Z</lastmod>
   </url>
 </urlset>

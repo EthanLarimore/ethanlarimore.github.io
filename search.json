@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Ethan Larimore",
@@ -33,12 +40,5 @@
     "title": "Projects",
     "section": "",
     "text": "With Krish Bothra and Jenna Lau\n\nGitHub · Paper · Poster\n\nWe developed a multi-stage modeling framework to predict key elements of the screen play before the snap using the NFL’s Big Data Bowl tracking data. By combining players’ spatial information with game contexts, our models predict screen play occurence, direction, and target receiver group while outperforming baseline approaches."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
   }
 ]
